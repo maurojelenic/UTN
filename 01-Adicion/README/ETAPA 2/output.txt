@@ -1,1 +1,0 @@
-La suma de los valores ingresados es: 5

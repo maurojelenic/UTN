@@ -1,6 +1,0 @@
-Modelo IPO:
-
-entradas(IN): A y B 
-Procesos: Sumatoria entre las variables A y B
-salidas(OUT): A + B 
-
