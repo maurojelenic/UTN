@@ -1,4 +1,4 @@
-﻿#Trabajos prácticos hecho en la facultad**
+#Trabajos prácticos hecho en la facultad
 
 ***Listado de materias:***
 
